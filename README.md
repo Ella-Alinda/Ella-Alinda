@@ -1,5 +1,10 @@
 ### Hi there 👋
+It's nice to meet you.<br>
+Language perference: English/Chinese<br><br>
+[![Ella-Alinda's github stats](https://github-readme-stats.vercel.app/api?username=Ella-Alinda&show_icons=true)](https://github.com/Ella-Alinda)
 
+Contact:
+E-mail: <ella@ilolicon.com>
 <!--
 **Ella-Alinda/Ella-Alinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
