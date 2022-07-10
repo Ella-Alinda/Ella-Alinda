@@ -5,7 +5,7 @@ It's nice to meet you.<br>
 Language perference: English/Chinese<br><br>
 
 ## 📫Contact:
-[![Email](https://img.shields.io/badge/ella%40ilolicon%2ecom-3873C4?style=flat-square&logo=thunderbird&logoColor=ffffff)](mailto:i@779.moe)
+[![Email](https://img.shields.io/badge/ella%40ilolicon%2ecom-3873C4?style=flat-square&logo=thunderbird&logoColor=ffffff)](mailto:ella@ilolicon.com)
 [![Telegram](https://img.shields.io/badge/%40ellaalindas-0088cc?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/ellaalindas)
 
 ## 🤔 What I'm doing
