@@ -15,8 +15,8 @@ Language perference: English/Chinese<br><br>
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d0?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://archlinux.org)
 [![Debian 11](https://img.shields.io/badge/Debian%2011-dd4814?style=flat-square&logo=debian&logoColor=ffffff)](https://debian.org)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows11)
-[![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)
-[![iOS 15](https://img.shields.io/badge/iOS%2015-4f4f4f?style=flat-square&logo=ios&logoColor=ffffff)](https://www.apple.com/ios/ios-15/)
+[![Android 13](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)
+[![iOS 16](https://img.shields.io/badge/iOS%2015-4f4f4f?style=flat-square&logo=ios&logoColor=ffffff)](https://www.apple.com/ios/ios-16/)
 
 ## 😀 My favorite things
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual+Studio+Code)
