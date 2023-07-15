@@ -13,7 +13,7 @@ Language perference: English/Chinese<br><br>
 
 ## 💻 Working environment
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d0?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://archlinux.org)
-[![Debian 11](https://img.shields.io/badge/Debian%2011-dd4814?style=flat-square&logo=debian&logoColor=ffffff)](https://debian.org)
+[![Debian 12](https://img.shields.io/badge/Debian%2012-dd4814?style=flat-square&logo=debian&logoColor=ffffff)](https://debian.org)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows11)
 [![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)
 [![iOS 16](https://img.shields.io/badge/iOS%2016-4f4f4f?style=flat-square&logo=ios&logoColor=ffffff)](https://www.apple.com/ios/ios-16/)
